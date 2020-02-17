@@ -1,0 +1,10 @@
+{
+  "name": "ts-crash-test",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
